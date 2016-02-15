@@ -1,6 +1,6 @@
 <?php
 
-use pendalf89\filemanager\Module;
+use nubors\filemanager\Module;
 use kartik\alert\Alert;
 use yii\helpers\Html;
 

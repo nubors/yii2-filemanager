@@ -1,13 +1,13 @@
 <?php
 
-use pendalf89\filemanager\assets\FilemanagerAsset;
-use pendalf89\filemanager\Module;
+use nubors\filemanager\assets\FilemanagerAsset;
+use nubors\filemanager\Module;
 use yii\widgets\ListView;
 use yii\helpers\Html;
 use yii\helpers\Url;
 
 /* @var $this yii\web\View */
-/* @var $searchModel pendalf89\filemanager\models\Mediafile */
+/* @var $searchModel nubors\filemanager\models\Mediafile */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 $this->params['moduleBundle'] = FilemanagerAsset::register($this);
 ?>

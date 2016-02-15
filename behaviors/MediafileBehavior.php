@@ -1,10 +1,10 @@
 <?php
-namespace pendalf89\filemanager\behaviors;
+namespace nubors\filemanager\behaviors;
 
 use yii;
 use yii\base\Behavior;
 use yii\db\ActiveRecord;
-use pendalf89\filemanager\models\Mediafile;
+use nubors\filemanager\models\Mediafile;
 
 class MediafileBehavior extends Behavior
 {

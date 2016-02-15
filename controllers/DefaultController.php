@@ -1,6 +1,6 @@
 <?php
 
-namespace pendalf89\filemanager\controllers;
+namespace nubors\filemanager\controllers;
 
 use Yii;
 use yii\web\Controller;

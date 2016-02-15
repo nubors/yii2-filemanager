@@ -1,7 +1,7 @@
 <?php
 use yii\helpers\Html;
-use pendalf89\filemanager\Module;
-use pendalf89\filemanager\assets\FilemanagerAsset;
+use nubors\filemanager\Module;
+use nubors\filemanager\assets\FilemanagerAsset;
 
 /* @var $this yii\web\View */
 
